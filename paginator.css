@@ -1,0 +1,43 @@
+
+/****** PAGINATOR ******/
+
+.default-paginator-2 {
+	text-align: center;
+	padding: 14px 0;
+	margin: 20px 0;
+}
+.default-paginator-2 a {
+	font-size:14px;
+	display:inline-block;
+	padding: 12px 18px;
+	border: 3px solid #ccc;
+}
+.default-paginator-2 .container-i {
+	font-size:20px;
+	border:none;
+}
+.default-paginator-2 .first-link {
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+.default-paginator-2 .last-link {
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.default-paginator-2 .first-link,
+.default-paginator-2 .last-link {
+	border-left:3px solid #ccc;
+}
+.paginator-active {
+	background: #ccc;
+}
+.delimiter {
+	display:inline-block;
+	padding: 9px;
+	font-size:16px;
+	letter-spacing:-1px;
+}
+
+/******* end PAGINATOR *******/
+
+
