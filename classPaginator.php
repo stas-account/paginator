@@ -1,7 +1,7 @@
 <?php
 
 class Paginator {
-	/* укажем для $limit значение по умоч */
+	/* укажем для $limit значение по умолчанию */
 	public static $limit = 10;
 	public static $pagenumber;
 	private static $offset;
